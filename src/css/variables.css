@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@500;700;900&display=swap");
+:root {
+  --font-primary: "Heebo", sans-serif;
+  --background-color: #cecece;
+  --accent-color: #f3db54;
+  --font-primary-color: #080807;
+  --border-color: #080807;
+  --button-bg-color: #080807;
+  --button-text-color: #cecece;
+  --body-whitespace: 10vw;
+}
